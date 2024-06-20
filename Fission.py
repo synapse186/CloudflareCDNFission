@@ -37,7 +37,7 @@ sites_config = {
         "xpath": '//ul[@id="list"]/li/a'
     },
     "ipchaxun": {
-        "url": "https://ipchaxun.com/",
+        "url": "https://nordvpn.com/zh/ip-lookup/",
         "xpath": '//div[@id="J_domain"]/p/a'
     }
 }
